@@ -1,0 +1,62 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+
+.Card {
+	padding: 2em;
+	background-color: #1b1a55;
+	border-radius: 20px;
+	width: 400px;
+	margin: 2em;
+}
+
+.centerDiv {
+	display: inline-block;
+	text-align: center;
+}
+
+.data {
+	padding: 2em;
+	background-color: #1b1a55;
+	border-radius: 20px;
+	width: 1200px;
+}
+.cards {
+	display: flex;
+}
+
+.read-the-docs {
+	color: #888;
+}
+
+th {
+	padding: 5px;
+}
+table {
+	text-align: center;
+}
+input {
+	background-color: #070f2b;
+	border-radius: 20px;
+}
+
+.TypeCard {
+	border-radius: 20px;
+	width: 100px;
+	display: flex;
+	float: left;
+	justify-content: center;
+}
+
+.AbilityTable {
+	width: 1200px;
+}
+
+.Border {
+	border-collapse: collapse;
+	border: 1px solid white;
+	border-radius: 10px;
+}
