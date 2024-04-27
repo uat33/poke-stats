@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/BnBLa7R"  ><a href="//imgur.com/a/BnBLa7R">web102-06</a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/yEWCNY9"  ><a href="//imgur.com/a/yEWCNY9">web102-08</a></blockquote>
+
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with windows snipping tool and uploaded to imgur.
